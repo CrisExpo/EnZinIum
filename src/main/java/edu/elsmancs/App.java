@@ -340,5 +340,5 @@ public class App {
 //                + ricknillos.balanceOf(rick.getPK())
 //                + " "
 //                + ricknillos.symbol());
-//    }
+    }
 }
